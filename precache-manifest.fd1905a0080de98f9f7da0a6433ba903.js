@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d41638124b0645300d51",
+    "revision": "c819cb25939c3891c295",
     "url": "/MIDI-OUT/static/css/main.11cdae30.chunk.css"
   },
   {
-    "revision": "d41638124b0645300d51",
-    "url": "/MIDI-OUT/static/js/main.5ce76f3e.chunk.js"
+    "revision": "c819cb25939c3891c295",
+    "url": "/MIDI-OUT/static/js/main.0fd2ab44.chunk.js"
   },
   {
     "revision": "65eb99d5265f4e0c5a22",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/MIDI-OUT/static/media/orelandreshka.cf9f3c67.png"
   },
   {
-    "revision": "c7cfebc06a7336d35acace418c1a4902",
+    "revision": "eaa412d3ea52b27553dfca6ff6a6d9e9",
     "url": "/MIDI-OUT/index.html"
   }
 ];
